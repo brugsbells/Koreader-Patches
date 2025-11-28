@@ -1,5 +1,5 @@
 # Koreader-Patches
-Koreader Patches
+Some Koreader patches I've made for myselft.
 
 ## Remove Wi-Fi Notifications
 Removes all pop-up notifications when connecting to Wi-Fi networks
