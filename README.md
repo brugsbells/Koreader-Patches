@@ -9,4 +9,4 @@ Resizes book covers in Mosaic view so they are all the same size
 
 ## Series Badge
 Adds a badge to book covers that shows the series number. The series number must be in the file name inside brackets like this: "Mistborn [01] Final Empire, The - Brandon Sanderson.epub"
-![Screenshot](https://github.com/brugsbells/Koreader-Patches/blob/main/FileManager_2025-11-09_125900.png)
+![Screenshot](https://github.com/brugsbells/Koreader-Patches/blob/main/SeriesBadgeScreenshot.png)
